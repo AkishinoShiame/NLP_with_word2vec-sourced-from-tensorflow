@@ -1,0 +1,242 @@
+Found and verified text8.zip
+Data size 17005207
+Most common words (+UNK) [['UNK', 418391], ('the', 1061396), ('of', 593677), ('and', 416629), ('one', 411764)]
+Sample data [5239, 3084, 12, 6, 195, 2, 3137, 46, 59, 156] ['anarchism', 'originated', 'as', 'a', 'term', 'of', 'abuse', 'first', 'used', 'against']
+3084 originated -> 5239 anarchism
+3084 originated -> 12 as
+12 as -> 6 a
+12 as -> 3084 originated
+6 a -> 195 term
+6 a -> 12 as
+195 term -> 6 a
+195 term -> 2 of
+Initialized
+Average loss at step  0 :  275.703613281
+Nearest to often: stephane, hosts, cenotaph, drown, standardised, yeasts, renegades, icon,
+Nearest to most: latveria, bendis, metastability, synchronicity, andrea, boii, columbine, atheistic,
+Nearest to about: nantes, brubeck, whistles, drops, icebergs, hesperides, arlington, cosmic,
+Nearest to on: boudin, plausible, lackey, leans, assertions, mccann, senatorial, imprint,
+Nearest to would: renown, iconic, fart, odessa, catwoman, under, arm, mink,
+Nearest to used: parser, fledgling, enforcing, odes, malay, guinevere, hermits, so,
+Nearest to b: freshness, feeds, basica, mer, pioneering, neared, erudite, practiced,
+Nearest to eight: linz, mina, paranoid, ferrari, edwin, dorms, brew, australes,
+Nearest to with: overlay, strewn, nahuatl, heaps, tgv, biopolymers, theoretician, dci,
+Nearest to american: woman, hackers, fairs, burney, mcgovern, mandolins, kwame, winch,
+Nearest to called: carnarvon, beautifully, settling, thirteen, colts, strayed, snippets, reassert,
+Nearest to into: lingering, realpolitik, fruit, diaphragm, boaz, macleod, assistive, jeb,
+Nearest to first: functionalist, ablaze, verifiable, liking, jit, hogmanay, toto, stf,
+Nearest to that: linguistique, malian, histidine, wreckage, dbm, incapacitation, battles, lessens,
+Nearest to these: beagles, grenoble, ilp, kappa, spheres, ornithology, cylinder, help,
+Nearest to or: carbonation, metamorphoses, ichthyology, bradbury, provence, vincenzo, ocogs, dzhokhar,
+Average loss at step  2000 :  113.611343888
+Average loss at step  4000 :  52.9622672827
+Average loss at step  6000 :  33.388795948
+Average loss at step  8000 :  23.7108103657
+Average loss at step  10000 :  18.1375374465
+Nearest to often: hosts, cl, yeasts, entering, vs, multicultural, marie, champion,
+Nearest to most: atheistic, minister, alloys, suicide, persistent, aol, audiences, burgess,
+Nearest to about: drops, builder, phi, two, playing, cosmic, services, agave,
+Nearest to on: in, agave, two, analogue, and, pleading, horrors, faux,
+Nearest to would: under, iconic, abbreviation, arm, odessa, satan, poirot, record,
+Nearest to used: omotic, malay, entities, so, spending, jackson, germany, everything,
+Nearest to b: aberdeen, basins, feeds, pioneering, practiced, appeals, mathbf, merger,
+Nearest to eight: nine, zero, vs, six, mathbf, yeast, analogue, homomorphism,
+Nearest to with: and, for, in, dia, phi, agave, of, nine,
+Nearest to american: woman, blowing, brands, and, signifier, administrator, us, acids,
+Nearest to called: catholic, thirteen, vs, antarctic, gland, amo, announce, cultures,
+Nearest to into: fruit, artist, closure, americium, designated, microcomputers, assistive, in,
+Nearest to first: gland, getting, investigation, syllable, aarhus, dracula, burden, verifiable,
+Nearest to that: and, objected, battles, formalism, sites, carry, feature, zorn,
+Nearest to these: help, studios, commissioned, cylinder, composers, auteur, assaulting, borman,
+Nearest to or: and, encounters, aberdeen, alexandria, snooker, vs, analogue, homomorphism,
+Average loss at step  12000 :  13.9799141097
+Average loss at step  14000 :  11.681949078
+Average loss at step  16000 :  9.80479697216
+Average loss at step  18000 :  8.61957343984
+Average loss at step  20000 :  7.77391468501
+Nearest to often: hosts, yeasts, entering, cl, but, multicultural, marie, tickets,
+Nearest to most: alloys, andrea, minister, atheistic, tm, lifting, persistent, initiator,
+Nearest to about: two, drops, agouti, seven, builder, circ, phi, honesty,
+Nearest to on: in, and, two, from, with, agave, for, analogue,
+Nearest to would: under, abbreviation, iconic, satan, odessa, stowe, arm, fusion,
+Nearest to used: omotic, found, agouti, malay, spending, anchors, hello, entities,
+Nearest to b: d, and, mer, appeals, pioneering, haider, legislate, feeds,
+Nearest to eight: nine, six, zero, five, dasyprocta, three, seven, agouti,
+Nearest to with: for, and, in, of, on, by, dia, phi,
+Nearest to american: and, woman, blowing, brands, meeting, administrator, tome, raised,
+Nearest to called: thirteen, catholic, settling, UNK, dasyprocta, announce, antarctic, hyde,
+Nearest to into: in, for, subkey, from, microcomputers, on, granddaughter, fruit,
+Nearest to first: gland, amazonas, investigation, allegory, ablaze, wily, burden, getting,
+Nearest to that: which, objected, and, scandinavia, formalism, battles, dasyprocta, carry,
+Nearest to these: help, the, deacon, composers, studios, commissioned, dasyprocta, auteur,
+Nearest to or: and, provence, agouti, three, encounters, zero, in, the,
+Average loss at step  22000 :  7.22670144331
+Average loss at step  24000 :  6.927736444
+Average loss at step  26000 :  6.65363085115
+Average loss at step  28000 :  6.12206750631
+Average loss at step  30000 :  6.1920367825
+Nearest to often: hosts, but, yeasts, entering, never, tickets, also, cl,
+Nearest to most: exams, lifting, refrigerants, end, alloys, audiences, minister, initiator,
+Nearest to about: drops, builder, reuptake, honesty, girdle, eight, agouti, pattern,
+Nearest to on: in, two, from, with, through, for, and, analogue,
+Nearest to would: could, under, may, abbreviation, satan, can, will, stowe,
+Nearest to used: found, omotic, spending, agouti, malay, anchors, able, everything,
+Nearest to b: d, legislate, and, appeals, haider, pioneering, mer, cpa,
+Nearest to eight: nine, six, five, seven, four, zero, three, dasyprocta,
+Nearest to with: for, by, in, and, at, on, abet, or,
+Nearest to american: and, woman, blowing, node, cpa, brands, tome, administrator,
+Nearest to called: settling, reuptake, catholic, bos, thirteen, UNK, hyde, dasyprocta,
+Nearest to into: from, in, for, subkey, on, cpa, granddaughter, microcomputers,
+Nearest to first: reuptake, abet, gland, amazonas, stf, investigation, dasyprocta, getting,
+Nearest to that: which, this, scandinavia, objected, it, formalism, carry, however,
+Nearest to these: the, help, composers, studios, some, deacon, dasyprocta, ein,
+Nearest to or: and, reuptake, primigenius, agouti, abet, aorta, akita, infogrames,
+Average loss at step  32000 :  5.859899423
+Average loss at step  34000 :  5.89960819054
+Average loss at step  36000 :  5.74035460162
+Average loss at step  38000 :  5.25927551436
+Average loss at step  40000 :  5.51952540112
+Nearest to often: but, also, hosts, never, yeasts, entering, it, elagabalus,
+Nearest to most: exams, minister, end, tm, refrigerants, lifting, initiator, apolitical,
+Nearest to about: four, three, builder, drops, seven, honesty, leaf, girdle,
+Nearest to on: in, from, with, at, through, and, agave, dasyprocta,
+Nearest to would: may, could, can, will, satan, must, abbreviation, under,
+Nearest to used: found, agouti, omotic, able, spending, haider, everything, anchors,
+Nearest to b: d, UNK, legislate, cpa, six, appeals, and, pioneering,
+Nearest to eight: nine, seven, six, five, four, zero, three, dasyprocta,
+Nearest to with: and, for, on, in, or, abet, by, phi,
+Nearest to american: and, blowing, woman, node, cpa, italian, brands, german,
+Nearest to called: reuptake, settling, and, bos, catholic, hyde, dasyprocta, carrel,
+Nearest to into: from, in, for, subkey, granddaughter, cpa, on, through,
+Nearest to first: abet, reuptake, last, gland, stf, recitative, amazonas, dasyprocta,
+Nearest to that: which, this, it, recitative, however, but, objected, scandinavia,
+Nearest to these: some, many, the, kappa, help, composers, deacon, dasyprocta,
+Nearest to or: and, agouti, primigenius, abet, infogrames, reuptake, akita, aorta,
+Average loss at step  42000 :  5.2881701014
+Average loss at step  44000 :  5.38222139037
+Average loss at step  46000 :  5.30585447407
+Average loss at step  48000 :  5.03220438242
+Average loss at step  50000 :  5.14869153571
+Nearest to often: also, but, never, hosts, it, sometimes, elagabalus, yeasts,
+Nearest to most: boii, exams, end, more, saito, lifting, tm, audiences,
+Nearest to about: thibetanus, four, tyndall, three, eight, seven, builder, honesty,
+Nearest to on: in, through, from, and, agave, dasyprocta, with, at,
+Nearest to would: may, could, can, will, must, satan, should, to,
+Nearest to used: found, able, omotic, agouti, spending, haider, everything, anchors,
+Nearest to b: d, one, six, legislate, beeb, cpa, appeals, dasyprocta,
+Nearest to eight: seven, six, nine, five, four, three, zero, dasyprocta,
+Nearest to with: and, in, by, for, or, abet, at, on,
+Nearest to american: blowing, and, woman, italian, german, cpa, guess, royal,
+Nearest to called: reuptake, UNK, settling, and, bos, grizzly, dasyprocta, hyde,
+Nearest to into: from, in, subkey, for, through, boaz, granddaughter, cpa,
+Nearest to first: last, abet, gland, reuptake, stf, abelian, amazonas, conformal,
+Nearest to that: which, this, however, recitative, but, scandinavia, objected, it,
+Nearest to these: some, many, thibetanus, kappa, help, all, solicitation, deacon,
+Nearest to or: and, infogrames, abet, primigenius, agouti, akita, birkenau, reuptake,
+Average loss at step  52000 :  5.17938547695
+Average loss at step  54000 :  5.12040035403
+Average loss at step  56000 :  5.04989862108
+Average loss at step  58000 :  5.12746991158
+Average loss at step  60000 :  4.95863258731
+Nearest to often: also, sometimes, but, never, elagabalus, microcebus, hosts, usually,
+Nearest to most: more, end, boii, exams, tm, saito, all, audiences,
+Nearest to about: tamarin, thibetanus, tyndall, four, builder, three, seven, five,
+Nearest to on: in, through, upon, agave, at, with, dasyprocta, tamarin,
+Nearest to would: may, will, can, could, must, should, to, satan,
+Nearest to used: found, able, callithrix, agouti, omotic, haider, spending, similar,
+Nearest to b: d, legislate, callithrix, six, cpa, dasyprocta, agouti, michelob,
+Nearest to eight: seven, six, nine, five, four, zero, three, agouti,
+Nearest to with: by, and, in, tamarin, for, or, abet, on,
+Nearest to american: blowing, german, italian, woman, and, dishonest, tack, cpa,
+Nearest to called: UNK, grizzly, reuptake, dasyprocta, settling, and, microsite, bos,
+Nearest to into: from, in, subkey, through, boaz, granddaughter, on, michelob,
+Nearest to first: last, abet, microcebus, gland, callithrix, ssbn, reuptake, dasyprocta,
+Nearest to that: which, this, however, but, it, callithrix, microcebus, recitative,
+Nearest to these: some, many, all, thibetanus, solicitation, kappa, dasyprocta, microcebus,
+Nearest to or: and, callithrix, primigenius, agouti, abet, infogrames, cebus, michelob,
+Average loss at step  62000 :  4.79351242816
+Average loss at step  64000 :  4.78293482792
+Average loss at step  66000 :  4.9914063946
+Average loss at step  68000 :  4.93595714724
+Average loss at step  70000 :  4.78386602128
+Nearest to often: also, sometimes, usually, never, generally, elagabalus, but, microcebus,
+Nearest to most: more, boii, exams, saito, thaler, minister, end, some,
+Nearest to about: tamarin, thibetanus, four, tyndall, builder, fogo, three, seven,
+Nearest to on: in, through, upon, at, and, agave, dasyprocta, from,
+Nearest to would: will, may, could, can, must, should, to, might,
+Nearest to used: found, able, callithrix, agouti, haider, omotic, spending, rodin,
+Nearest to b: d, seven, n, legislate, tupper, UNK, merger, cpa,
+Nearest to eight: nine, six, seven, five, four, three, zero, dasyprocta,
+Nearest to with: in, tamarin, abet, callithrix, by, and, or, at,
+Nearest to american: blowing, thaler, italian, german, dishonest, woman, cuban, tack,
+Nearest to called: UNK, grizzly, reuptake, and, dasyprocta, carrel, loans, thaler,
+Nearest to into: from, in, through, subkey, boaz, granddaughter, michelob, masonic,
+Nearest to first: last, gland, abet, second, abelian, keenan, microcebus, callithrix,
+Nearest to that: which, this, however, but, microcebus, callithrix, thaler, recitative,
+Nearest to these: some, many, all, such, thibetanus, there, the, solicitation,
+Nearest to or: and, callithrix, infogrames, abet, primigenius, agouti, cebus, michelob,
+Average loss at step  72000 :  4.79261798418
+Average loss at step  74000 :  4.78416277474
+Average loss at step  76000 :  4.88244368017
+Average loss at step  78000 :  4.78691809785
+Average loss at step  80000 :  4.82029686022
+Nearest to often: sometimes, also, usually, generally, never, elagabalus, there, frequently,
+Nearest to most: more, many, some, boii, saito, tm, all, exams,
+Nearest to about: thibetanus, tamarin, four, tyndall, fogo, builder, three, over,
+Nearest to on: in, through, upon, at, henslow, baffled, agave, from,
+Nearest to would: will, may, can, could, must, should, might, to,
+Nearest to used: found, able, callithrix, agouti, haider, pontificia, rodin, known,
+Nearest to b: d, UNK, legislate, n, tupper, agouti, dasyprocta, callithrix,
+Nearest to eight: seven, six, nine, five, four, three, zero, dasyprocta,
+Nearest to with: in, abet, by, or, tamarin, between, among, callithrix,
+Nearest to american: blowing, italian, thaler, german, royal, cuban, dishonest, british,
+Nearest to called: grizzly, reuptake, dasyprocta, loans, thaler, hogs, UNK, callithrix,
+Nearest to into: from, through, in, subkey, granddaughter, boaz, masonic, michelob,
+Nearest to first: last, second, keenan, abet, microcebus, gland, silvestris, abelian,
+Nearest to that: which, however, this, recitative, scandinavia, but, callithrix, thaler,
+Nearest to these: some, many, such, all, both, thibetanus, several, the,
+Nearest to or: and, infogrames, callithrix, abet, primigenius, agouti, iit, cebus,
+Average loss at step  82000 :  4.79798555553
+Average loss at step  84000 :  4.7992325058
+Average loss at step  86000 :  4.74403654087
+Average loss at step  88000 :  4.69265133917
+Average loss at step  90000 :  4.74833369553
+Nearest to often: sometimes, also, usually, generally, frequently, commonly, elagabalus, still,
+Nearest to most: more, some, many, boii, saito, thaler, dialects, all,
+Nearest to about: thibetanus, tamarin, over, fogo, three, tyndall, builder, four,
+Nearest to on: through, in, upon, at, henslow, agave, dasyprocta, baffled,
+Nearest to would: will, may, can, could, must, should, might, iit,
+Nearest to used: found, able, agouti, haider, callithrix, rodin, considered, known,
+Nearest to b: d, six, n, legislate, tupper, three, gwh, agouti,
+Nearest to eight: seven, five, nine, six, four, three, zero, dasyprocta,
+Nearest to with: in, between, abet, or, by, tamarin, callithrix, among,
+Nearest to american: italian, german, blowing, thaler, british, cuban, royal, dishonest,
+Nearest to called: grizzly, reuptake, stickball, loans, dasyprocta, hyde, hogs, thaler,
+Nearest to into: from, through, in, subkey, granddaughter, masonic, with, michelob,
+Nearest to first: last, second, keenan, microcebus, abet, gland, callithrix, later,
+Nearest to that: which, however, this, recitative, but, what, scandinavia, callithrix,
+Nearest to these: some, many, such, all, both, several, various, are,
+Nearest to or: and, callithrix, primigenius, abet, infogrames, cebus, agouti, trinomial,
+Average loss at step  92000 :  4.71339309728
+Average loss at step  94000 :  4.62853299057
+Average loss at step  96000 :  4.72486632514
+Average loss at step  98000 :  4.62081686485
+Average loss at step  100000 :  4.68441271174
+Nearest to often: usually, sometimes, also, generally, commonly, frequently, still, never,
+Nearest to most: more, many, some, saito, dialects, thaler, all, exams,
+Nearest to about: brubeck, thibetanus, tamarin, four, over, tyndall, three, fogo,
+Nearest to on: in, through, upon, henslow, at, dasyprocta, baffled, within,
+Nearest to would: will, can, may, could, must, should, might, to,
+Nearest to used: found, able, agouti, haider, callithrix, rodin, known, considered,
+Nearest to b: d, legislate, tupper, haider, appeals, tamias, dasyprocta, cpa,
+Nearest to eight: seven, nine, six, five, four, three, zero, dasyprocta,
+Nearest to with: between, in, abet, tamarin, among, and, callithrix, or,
+Nearest to american: italian, british, german, blowing, thaler, cuban, dishonest, english,
+Nearest to called: UNK, grizzly, hyde, loans, stickball, bucky, hogs, reuptake,
+Nearest to into: from, through, in, subkey, granddaughter, masonic, out, during,
+Nearest to first: last, second, keenan, next, microcebus, abet, abelian, callithrix,
+Nearest to that: which, however, this, what, but, recitative, scandinavia, callithrix,
+Nearest to these: some, many, all, such, both, several, various, are,
+Nearest to or: and, primigenius, abet, callithrix, infogrames, thaler, agouti, iit,
+Please install sklearn, matplotlib, and scipy to visualize embeddings.
+
